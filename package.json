@@ -1,0 +1,21 @@
+{
+  "name": "rpcheck",
+  "version": "0.0.1",
+  "description": "Cosmos SDK RPC infra config validation",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "node src/main.js https://rpc-kujira.mintthemoon.xyz:443",
+    "start": "node src/main.js $(cat kujira-infra.txt)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintthemoon/cosmos-rpc-check.git"
+  },
+  "author": "mintthemoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mintthemoon/cosmos-rpc-check/issues"
+  },
+  "homepage": "https://github.com/mintthemoon/cosmos-rpc-check#readme"
+}
