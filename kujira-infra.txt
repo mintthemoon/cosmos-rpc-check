@@ -1,13 +1,14 @@
 https://kujira.rpc.kjnodes.com
 https://rpc-kujira.synergynodes.com
-https://rpc.cosmos.directory/kujira
 https://kuji-rpc.kleomedes.network
 https://kujira-rpc.theamsolutions.info
 https://kujira.rpc.ghostinnet.com
-https://kujira.mainnet.rpc.autostake.net
+https://kujira-mainnet-rpc.autostake.com
 https://rpc-kujira.starsquid.io
 https://rpc-kujira.whispernode.com
 https://rpc-kujira.mms.team
 https://kujira-rpc.polkachu.com
 https://rpc-kujira.mintthemoon.xyz
-https://kujira-rpc.lavenderfive.com
+https://kujira-rpc.ibs.team
+https://kujira-rpc.openbitlab.com
+
